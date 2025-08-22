@@ -1,5 +1,5 @@
 repositories:
   perahive-core:
     type: git
-    url: git@github.com:your-org/perahive-core.git   # ← change to your real URL (SSH or HTTPS)
+    url: git@github.com:PeraHive/perahive-core.git   # ← change to your real URL (SSH or HTTPS)
     version: main                                     # branch for dev; tag/SHA for releases
