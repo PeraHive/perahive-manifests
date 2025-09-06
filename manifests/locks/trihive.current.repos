@@ -1,7 +1,9 @@
 repositories:
+  perahive-core:
+    type: git
+    url: git@github.com:PeraHive/perahive-core.git
+    version: main
   project-trihive:
     type: git
     url: git@github.com:PeraHive/project-trihive.git
     version: main
-
-
